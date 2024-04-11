@@ -1,0 +1,10 @@
+GET http://localhost:3333/info/SPaeA8shXFg
+
+###
+
+POST http://localhost:3333/download
+Content-Type: application/json
+
+{
+    "urlCode": "SPaeA8shXFg"
+}
